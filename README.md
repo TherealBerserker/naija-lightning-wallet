@@ -118,5 +118,5 @@ Independent Bitcoin Developer (Nigeria)
 ---
 
 ## Contact
-Email: [your email]  
-GitHub: https://github.com/YOUR_USERNAME
+Email: painbuster500@gmail.com  
+GitHub: https://github.com/TherealBerserker
