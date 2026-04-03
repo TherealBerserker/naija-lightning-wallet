@@ -112,7 +112,7 @@ MIT License
 ---
 
 ## Author
-[Your Name]  
+Omololu Ariyo 
 Independent Bitcoin Developer (Nigeria)
 
 ---
